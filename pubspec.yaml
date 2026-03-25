@@ -55,7 +55,8 @@ dependencies:
   flutter_html: ^3.0.0
   html_unescape: ^2.0.0
   flutter_scankit:
-    path: packages/flutter_scankit
+    git:
+      url: https://github.com/wilinz/flutter-scankit
 
 
 dev_dependencies:
