@@ -1,0 +1,3 @@
+[submodule "packages/flutter_scankit"]
+	path = packages/flutter_scankit
+	url = https://github.com/wilinz/flutter-scankit
